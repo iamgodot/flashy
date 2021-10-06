@@ -1,0 +1,6 @@
+{
+    "name": "FooBar",
+    "description": "Build and test for flashy.",
+    "iconName": "python",
+    "categories": ["Continuous integration", "Python"]
+}
