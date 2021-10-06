@@ -1,6 +1,7 @@
 # flashy
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![test](https://github.com/iamgodot/flashy/actions/workflows/test.yml/badge.svg)](https://github.com/iamgodot/flashy/actions/workflows/test.yml)
 
 Not any.
 
